@@ -1,0 +1,5 @@
+El archivo principal es el vídeo que da lectura del reporte en pdf.
+Las bases de datos Definitivas son ya procesadas.
+Los códigos son complementarios pero fueron ejecutados en Jupyter.
+Esperamos que les guste nuestra entrega.
+Saludos
