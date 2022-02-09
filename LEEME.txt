@@ -1,4 +1,6 @@
 El archivo principal es el vídeo que da lectura del reporte en pdf.
+El video disponible en https://drive.google.com/file/d/1-4FCMec8TfVtW1YLDD9QICZ1QEjlAsNX/view?usp=sharing
+da seguimiento al reporte en pdf incluido en este repositorio.
 Las bases de datos Definitivas son ya procesadas.
 Los códigos son complementarios pero fueron ejecutados en Jupyter.
 Esperamos que les guste nuestra entrega.
